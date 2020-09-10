@@ -1,7 +1,7 @@
-- Design: 
+# Design: 
     a) We will parse the original input into the origianl position were the rover is located and the path that is supposed to traverse.
     b) We will iterate through the path moving foward in the plateu if we see a 'M' command and updtaing th direction if we see a 'L' or 'R' character.
     c) In the entire proccess we will keep track of the location and direction of the robotic rover and print the last postion as our result.
 
-- How to run program: In order to run the program we just need to run "javac Solution.java" and "java Solution" respectevely. In order to insert a custom test case we can just open the "testcase.txt" file and insert the test case there. The .txt file contain the testcase in the same format as the description of the problem.
-- Output: The output will not be stored in any data structure, but instead it will be just printed in to the termial or console.
+# How to run program: In order to run the program we just need to run "javac Solution.java" and "java Solution" respectevely. In order to insert a custom test case we can just open the "testcase.txt" file and insert the test case there. The .txt file contain the testcase in the same format as the description of the problem.
+# Output: The output will not be stored in any data structure, but instead it will be just printed in to the termial or console.
